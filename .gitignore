@@ -1,0 +1,5 @@
+
+*.pyc
+code/.DS_Store
+code/dataset/.DS_Store
+.DS_Store
